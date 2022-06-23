@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc9a6db58a838e438d79079dfcb4568, type: 3}
+  m_Name: Sand
+  m_EditorClassIdentifier: 
+  generationObjects:
+  - objectName: Sand_01
+    objectPrefab: {fileID: 6084745877474300742, guid: dd938c059d8fc6143a548e0cdf677c5e, type: 3}
+    objectRarity: 10
+  - objectName: Sand_02
+    objectPrefab: {fileID: 7838081226850399163, guid: 0b097b0bb47f16243b4ca757d9b128c5, type: 3}
+    objectRarity: 10
+  - objectName: Sand_03
+    objectPrefab: {fileID: 2808747678815118553, guid: 72a572a380e37474dabb5bf640b61f29, type: 3}
+    objectRarity: 10
+  - objectName: Sand_04
+    objectPrefab: {fileID: 4910593725470946049, guid: 4734f372be5e84740a12647c48bef806, type: 3}
+    objectRarity: 10
+  - objectName: Sand_05
+    objectPrefab: {fileID: 3509974169770956614, guid: ef623c5f7ff95f14fb1ea75033e75aaf, type: 3}
+    objectRarity: 10
+  requiresMultipleObjects: 0
+  minNumOfObjects: 0
+  maxNumOfObjects: 0
+  xSpawnPos: 0
+  zSpawnPos: 0
+  xRotation: 0
+  yRotation: 360
+  zRotation: 0
+  globalScaleMultiplier: 1
+  scaleUniformly: 0
+  uniformMinScale: 0
+  uniformMaxScale: 0
+  xMinScale: 30
+  xMaxScale: 32
+  yMinScale: 1
+  yMaxScale: 1
+  zMinScale: 30
+  zMaxScale: 32

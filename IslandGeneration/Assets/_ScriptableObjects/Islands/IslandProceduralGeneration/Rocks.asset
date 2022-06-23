@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc9a6db58a838e438d79079dfcb4568, type: 3}
+  m_Name: Rocks
+  m_EditorClassIdentifier: 
+  generationObjects:
+  - objectName: Rock_01
+    objectPrefab: {fileID: 8428699875772369026, guid: 41d8a6d42561a9446859dfaca08c48b5, type: 3}
+    objectRarity: 10
+  - objectName: Rock_02
+    objectPrefab: {fileID: 2349124440852235635, guid: ff26b768eb7896b409f9add2081aebce, type: 3}
+    objectRarity: 10
+  - objectName: Rock_03
+    objectPrefab: {fileID: 9138512017993802183, guid: dcc4a63d2f99733499353fb6c6683722, type: 3}
+    objectRarity: 10
+  - objectName: Rock_04
+    objectPrefab: {fileID: 4821298344342256530, guid: 52dfed51627f889459887c1974bc80e9, type: 3}
+    objectRarity: 10
+  - objectName: Rock_05
+    objectPrefab: {fileID: 524932267466589318, guid: 9feec1d6b59a4f4429ddf28976b1f2af, type: 3}
+    objectRarity: 10
+  - objectName: Rock_06
+    objectPrefab: {fileID: 6102763864673093312, guid: fa69894ad932c7a41a3daa8f0cc0eb39, type: 3}
+    objectRarity: 10
+  - objectName: Rock_07
+    objectPrefab: {fileID: 1073871686385715335, guid: 63a6ed015e5fa9240ab0f8ef3b47600f, type: 3}
+    objectRarity: 10
+  - objectName: Rock_08
+    objectPrefab: {fileID: 6870761676417795391, guid: 792b163db6180744281ddaeb437fd16e, type: 3}
+    objectRarity: 10
+  - objectName: Rock_09
+    objectPrefab: {fileID: 1107818194741140065, guid: 8f033e0702b4b3b4999c5cdaf401d2ec, type: 3}
+    objectRarity: 10
+  - objectName: Rock_10
+    objectPrefab: {fileID: 1841355488104402027, guid: c09d6be2c2ac2bd48865985d6bfe0abf, type: 3}
+    objectRarity: 10
+  - objectName: Rock_11
+    objectPrefab: {fileID: 6554291347162385741, guid: 8ccbd9f6be062724b9bb852ee516055e, type: 3}
+    objectRarity: 10
+  - objectName: Rock_12
+    objectPrefab: {fileID: 2499504096167619629, guid: a9f90ebdccefb35439301685814faf82, type: 3}
+    objectRarity: 10
+  - objectName: Rock_13
+    objectPrefab: {fileID: 7016779211993416685, guid: 9e08168748474b542baf774401844f53, type: 3}
+    objectRarity: 10
+  - objectName: Rock_14
+    objectPrefab: {fileID: 6241428741584278336, guid: 0ca44e4816b8a7247af26a99b2c7699e, type: 3}
+    objectRarity: 10
+  - objectName: Rock_15
+    objectPrefab: {fileID: 2706114245337878233, guid: 1958c6f952c30064599c02eb91376ef3, type: 3}
+    objectRarity: 10
+  requiresMultipleObjects: 1
+  minNumOfObjects: 10
+  maxNumOfObjects: 17
+  xSpawnPos: -750
+  zSpawnPos: 750
+  xRotation: 0
+  yRotation: 360
+  zRotation: 0
+  globalScaleMultiplier: 1
+  scaleUniformly: 1
+  uniformMinScale: 5
+  uniformMaxScale: 6
+  xMinScale: 0
+  xMaxScale: 0
+  yMinScale: 0
+  yMaxScale: 0
+  zMinScale: 0
+  zMaxScale: 0

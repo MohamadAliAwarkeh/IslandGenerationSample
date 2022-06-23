@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc9a6db58a838e438d79079dfcb4568, type: 3}
+  m_Name: Islands
+  m_EditorClassIdentifier: 
+  generationObjects:
+  - objectName: Island
+    objectPrefab: {fileID: 4156938448015907701, guid: ebc74a3961dfe0f4dbf59f9e1e7b7f82, type: 3}
+    objectRarity: 10
+  requiresMultipleObjects: 1
+  minNumOfObjects: 2
+  maxNumOfObjects: 3
+  xSpawnPos: -300
+  zSpawnPos: 300
+  xRotation: 0
+  yRotation: 360
+  zRotation: 0
+  globalScaleMultiplier: 1
+  scaleUniformly: 0
+  uniformMinScale: 0
+  uniformMaxScale: 0
+  xMinScale: 5
+  xMaxScale: 7
+  yMinScale: 2
+  yMaxScale: 2
+  zMinScale: 5
+  zMaxScale: 7

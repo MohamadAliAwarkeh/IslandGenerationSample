@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc9a6db58a838e438d79079dfcb4568, type: 3}
+  m_Name: Cosmetics
+  m_EditorClassIdentifier: 
+  generationObjects:
+  - objectName: Bush_01
+    objectPrefab: {fileID: 8610786829443466839, guid: 7e36caf733d4eae4da457326e5def9b3, type: 3}
+    objectRarity: 6
+  - objectName: Bush_02
+    objectPrefab: {fileID: 3551706520577684414, guid: 8ff0e94b7be9a764890601d997a778d7, type: 3}
+    objectRarity: 6
+  - objectName: Bush_03
+    objectPrefab: {fileID: 5207286463489503765, guid: 832a5f3a067f63d4f9e85492ff305047, type: 3}
+    objectRarity: 6
+  - objectName: Bush_04
+    objectPrefab: {fileID: 5846767593923838304, guid: f5e37a6170d673d4f8a990164742aaf2, type: 3}
+    objectRarity: 6
+  - objectName: Grass_01
+    objectPrefab: {fileID: 2253841042192703883, guid: 2b734d815e3015c479aa7a6479233f73, type: 3}
+    objectRarity: 25
+  - objectName: Grass_02
+    objectPrefab: {fileID: 784443945539871549, guid: ffd9b4fe06d71f84a812793a8bc1be0b, type: 3}
+    objectRarity: 25
+  - objectName: Grass_03
+    objectPrefab: {fileID: 1056047556442844276, guid: e415d488b4072bd41ba8a3fd64f79a5c, type: 3}
+    objectRarity: 25
+  - objectName: Grass_04
+    objectPrefab: {fileID: 8575313276625965366, guid: 93bb5e395661e884aa0342b8d1d11939, type: 3}
+    objectRarity: 25
+  requiresMultipleObjects: 1
+  minNumOfObjects: 100
+  maxNumOfObjects: 150
+  xSpawnPos: -750
+  zSpawnPos: 750
+  xRotation: 0
+  yRotation: 360
+  zRotation: 0
+  globalScaleMultiplier: 1
+  scaleUniformly: 1
+  uniformMinScale: 5
+  uniformMaxScale: 6
+  xMinScale: 0
+  xMaxScale: 0
+  yMinScale: 0
+  yMaxScale: 0
+  zMinScale: 0
+  zMaxScale: 0
